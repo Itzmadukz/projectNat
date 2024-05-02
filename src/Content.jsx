@@ -15,7 +15,7 @@ export default function Content({ handleClick }) {
             <div className="wrapper">
                 <Row className='textBox'>
                     <Col><p className='pacifico-regular'> "Finding someone who makes you feel happy
-                        is not as important as someone who actively created happiness around you,
+                        is not as important as someone who actively creates happiness around you,
                         whose own happiness stimulates yours."</p></Col>
                 </Row>
             </div>
@@ -35,7 +35,7 @@ export default function Content({ handleClick }) {
             <div className="wrapper">
                 <Row className='textBox'>
                     <Col ><p className='pacifico-regular'>I know i'm not perfect,
-                        but being around you makes me want to be best version of myself
+                        but being around you makes me want to be the best version of myself
                     </p></Col>
                 </Row>
             </div>
