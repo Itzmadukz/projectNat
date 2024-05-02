@@ -7,12 +7,11 @@ export default function Confettii() {
       <Confetti
       />
       <Row className='textBox'>
-        <Col >
-          <h1 className='pacifico-regular'>
-          🎉 🕺🏾 👩🏾‍❤️‍💋‍👨🏾 <br/> 
-          A package is coming for you soon 
-          </h1>
-          
+        <Col className='pacifico-regular' >
+            <h1>
+              🎉 🕺🏾 👩🏾‍❤️‍💋‍👨🏾 <br/> 
+              A package is coming for you soon 
+            </h1>
         </Col>
       </Row>
     </Container>
