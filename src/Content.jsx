@@ -43,7 +43,7 @@ export default function Content({ handleClick }) {
             <Row className='textBox'>
                 <Col >
                     <p className='pacifico-regular'>
-                        Just to see you smile, I'd do anything that you wanted me to .... in my power 😅 </p>
+                        Just to see you smile, I'd do anything that you wanted me to .... within my power of course 😅 </p>
                     <Image className="imageBox" src="/smile.png" rounded fluid />
                 </Col>
             </Row>
