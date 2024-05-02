@@ -1,3 +1,3 @@
 # ProjectNat
 
-Asking Nat to be my girl, hope this works.
+A project of creative expression using different react UI's 
