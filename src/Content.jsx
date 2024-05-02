@@ -27,7 +27,7 @@ export default function Content({ handleClick }) {
                 <Col >
                     <p className='pacifico-regular'>
                         As soon as I saw you, I knew an adventure was about to happen.</p>
-                    <Image className="imageBox" src="./src/assets/collage_2.png" rounded fluid />
+                    <Image className="imageBox" src="/collage_2.png" rounded fluid />
                 </Col>
             </Row>
 
@@ -44,7 +44,7 @@ export default function Content({ handleClick }) {
                 <Col >
                     <p className='pacifico-regular'>
                         Just to see you smile, I'd do anything that you wanted me to .... in my power 😅 </p>
-                    <Image className="imageBox" src="./src/assets/smile.png" rounded fluid />
+                    <Image className="imageBox" src="/smile.png" rounded fluid />
                 </Col>
             </Row>
 
@@ -62,7 +62,7 @@ export default function Content({ handleClick }) {
                         So What do you say <br />
                         Give this guy a shot
                     </p>
-                    <Image className="imageBox" src="./src/assets/headChris.jpg" rounded fluid />
+                    <Image className="imageBox" src="/headChris.jpg" rounded fluid />
                 </Col>
             </Row>
 
