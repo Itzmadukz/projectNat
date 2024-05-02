@@ -9,7 +9,9 @@ export default function Confettii() {
       <Row className='textBox'>
         <Col >
           <h1 className='pacifico-regular'>
-          🎉 🕺🏾 👩🏾‍❤️‍💋‍👨🏾 </h1>
+          🎉 🕺🏾 👩🏾‍❤️‍💋‍👨🏾 <br/> 
+          A package is coming for you soon 
+          </h1>
           
         </Col>
       </Row>
